@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785727284616",
+    "project_id": "starters-f9e8c",
+    "storage_bucket": "starters-f9e8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785727284616:android:e64375a8af6800f0a1463d",
+        "android_client_info": {
+          "package_name": "org.startamericastogether.starters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlcZNBZ_zyd94iKIY-w0jTkT8uj5HwSFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
